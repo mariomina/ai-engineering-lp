@@ -20,9 +20,8 @@ Esta es una **landing page de conversión long-form** que transforma la presenta
 ## 📸 Screenshots
 
 ### Hero Section
-![Landing Page Hero](.github/assets/landing-hero.png)
+![Landing Page Hero](.github/assets/landing-hero.PNG)
 
-> **Nota:** Para agregar las imágenes al repositorio, sube los archivos a `.github/assets/` y haz commit.
 
 
 
