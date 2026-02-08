@@ -1,5 +1,12 @@
 # AI-Engineering Landing Page
 
+![CI](https://github.com/mariomina/ai-engineering-lp/workflows/CI/badge.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red)
+![Node](https://img.shields.io/badge/node-18%20%7C%2020-brightgreen)
+![Vite](https://img.shields.io/badge/vite-6.2.0-646CFF)
+![React](https://img.shields.io/badge/react-19.2.4-61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-5.8.2-3178C6)
+
 **Desarrollador Fullstack Senior - Metodología AIOS**
 
 Landing page de alto impacto diseñada para convertir el CV tradicional en una herramienta de ventas estratégica, posicionando a Mario Mina como socio de desarrollo acelerado para empresas en Ecuador.
