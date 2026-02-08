@@ -17,6 +17,15 @@ Landing page de alto impacto diseñada para convertir el CV tradicional en una h
 
 Esta es una **landing page de conversión long-form** que transforma la presentación profesional tradicional en una carta de ventas basada en evidencia. El proyecto aplica técnicas de copywriting de respuesta directa combinadas con diseño moderno para maximizar la conversión de visitantes en entrevistas calificadas.
 
+## 📸 Screenshots
+
+### Hero Section
+![Landing Page Hero](.github/assets/landing-hero.png)
+
+> **Nota:** Para agregar las imágenes al repositorio, sube los archivos a `.github/assets/` y haz commit.
+
+
+
 ### Problema que Resuelve
 
 Los desarrolladores senior compiten en un mercado saturado donde:
