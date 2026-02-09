@@ -7,39 +7,39 @@ const Hero: React.FC = () => {
       {/* Background Decor */}
       <div className="absolute inset-0 bg-grid opacity-20 pointer-events-none"></div>
       <div className="absolute top-[-10%] left-[20%] w-[500px] h-[500px] bg-primary/10 rounded-full blur-[120px] animate-pulse-slow"></div>
-      
+
       <div className="max-w-5xl mx-auto text-center flex flex-col items-center gap-8 relative z-10">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 border border-primary/20 text-primary text-xs font-semibold tracking-wide uppercase animate-float">
           <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
           AIOS Methodology by Mario Mina
         </div>
-        
+
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-[1.1] tracking-tight">
-          Entrego en 
+          Entrego en
           <span className="relative inline-block text-primary neon-text-glow px-2">
             2-3 semanas
             <svg className="absolute w-full h-3 -bottom-1 left-0 text-primary opacity-50" preserveAspectRatio="none" viewBox="0 0 100 10">
               <path d="M0 5 Q 50 10 100 5" fill="none" stroke="currentColor" strokeWidth="2"></path>
             </svg>
           </span>
-          <br className="hidden md:block"/>
-          lo que a un equipo tradicional
-          <br className="hidden md:block"/> 
+          <br className="hidden md:block" />
+          lo que a un equipo tradicional{" "}
+          <br className="hidden md:block" />
           le toma 3 meses.
         </h1>
-        
+
         <div className="space-y-4">
           <h2 className="text-2xl md:text-3xl font-medium text-white/90">
             No es promesa. Es metodología probada.
           </h2>
           <p className="text-gray-400 text-lg md:text-xl font-normal max-w-2xl leading-relaxed mx-auto">
-            Soy <span className="text-white font-bold">Mario Mina</span>, Desarrollador Fullstack Senior que usa 
-            <span className="text-primary font-bold"> AIOS (AI-Orquestador System)</span> para entregar proyectos 
+            Soy <span className="text-white font-bold">Mario Mina</span>, Desarrollador Fullstack Senior que usa
+            <span className="text-primary font-bold"> AIOS (AI-Orquestador System)</span> para entregar proyectos
             enterprise-grade en fracción del tiempo tradicional.
           </p>
           <p className="text-gray-500 italic text-sm">Sin sacrificar calidad. Sin atajos. Solo eficiencia brutal.</p>
         </div>
-        
+
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-4 w-full justify-center">
           <a href="https://autopiloto-lopdp.onrender.com/" target="_blank" rel="noopener noreferrer" className="group relative inline-flex items-center justify-center gap-2 bg-primary text-white font-bold text-base px-8 py-4 rounded-xl shadow-[0_0_20px_rgba(13,127,242,0.4)] hover:shadow-[0_0_40px_rgba(13,127,242,0.6)] transition-all overflow-hidden w-full sm:w-auto">
             <span>Ver la prueba</span>
